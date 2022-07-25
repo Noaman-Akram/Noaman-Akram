@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoemanAkram
 - 👀 I’m interested in Web Development, Ethichal Hacking, Data Science, Blockchain & Smart Contracts
-- 💞️ I’m looking for an entry level fullstack development
+- 💞️ I’m looking for an entry level developer role
 - 📫 How to reach me noaman.akram@pm.me
 
 
