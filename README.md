@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Noaman-Akram
 - 👀 I’m interested in Data Science, Web Development
-- 💞️ I’m looking for an entry level developer role
 - 📫 How to reach me noaman.akram@pm.me
 
 
