@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noaman-Akram
-- 👀 I’m interested in Data Science, Web Development
-- 📫 How to reach me noaman.akram@pm.me
+- 👀 I’m interested in Web Development
+- 📫 How to reach me contact@noemanakram.com
 
 
 <!---
